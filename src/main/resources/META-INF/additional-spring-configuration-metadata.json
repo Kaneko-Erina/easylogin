@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.imx.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.imx.enabled'"
+  },
+  {
+    "name": "mybatis.corfiguration.map-underscore-to-camel-case",
+    "type": "java.lang.String",
+    "description": "A description for 'mybatis.corfiguration.map-underscore-to-camel-case'"
+  }
+]}
